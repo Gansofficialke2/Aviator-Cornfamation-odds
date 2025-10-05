@@ -1,7 +1,7 @@
 # Aviator-Cornfamation-odds
 git clone https://github.com/yourusername/aviator-analyzer.git
 cd aviator-analyzer
-echo "<your code>" > analyzer.py
+echo "<5836>" > analyzer.py
 git add analyzer.py
 git commit -m "Initial commit"
 git push
